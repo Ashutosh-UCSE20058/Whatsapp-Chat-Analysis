@@ -1,0 +1,73 @@
+10/04/2023, 11:50 am - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+16/04/2023, 9:47 pm - Ashutosh Pradhan: Udit Sir, I am Ashutosh Pradhan. 
+
+Sir, I won't be able to come tomorrow as I am down with fever.
+16/04/2023, 11:41 pm - Udit Sir: Sure Ashutosh
+26/04/2023, 1:06 pm - Ashutosh Pradhan: Good Afternoon Sir.
+26/04/2023, 1:07 pm - Ashutosh Pradhan: Sir, about the front end part we have discussed,I have tried doing it but it is not working since 
+retrieving data from the firestore is not possible due to again because of unique userid and firestore being a 
+NO-Sql Database.
+If I put data together manually like I showed you, I have to clean the data one by one because of unique user-id.
+Therefore, there is no chance of writing a common code for the entire text files directly and representing it in JSON,GeoJSON and CSV format, manual changes needs to be done.
+26/04/2023, 1:38 pm - Udit Sir: So there are no solutions
+26/04/2023, 1:39 pm - Udit Sir: It will be just one time dashboard?
+26/04/2023, 1:51 pm - Ashutosh Pradhan: No sir. No possible solutions .
+26/04/2023, 1:53 pm - Ashutosh Pradhan: Yes Sir. It will be one-time. The Dashboard won't be able to show the information of the updated database.
+27/04/2023, 10:31 am - Ashutosh Pradhan: Sir, should I keep working on this dashboard?
+27/04/2023, 11:07 am - Udit Sir: Yes, check other solutions
+27/04/2023, 11:12 am - Ashutosh Pradhan: Ok sir.
+02/05/2023, 1:07 pm - Udit Sir: <Media omitted>
+11/05/2023, 2:45 pm - Udit Sir: <Media omitted>
+17/05/2023, 2:46 pm - Ashutosh Pradhan: Public Space Audit Dashboard - https://publicauditdashboard.netlify.app/
+18/05/2023, 4:14 pm - Udit Sir: usarkar@niua.org
+18/05/2023, 4:14 pm - Udit Sir: Power BI
+18/05/2023, 9:45 pm - Ashutosh Pradhan: Sir, actually this email address is showing outside of my organization so I can send you the link.
+18/05/2023, 9:46 pm - Ashutosh Pradhan: Sir, can you give me your outlook email id. It will work.
+18/05/2023, 9:46 pm - Udit Sir: uditsarkarr@outlook.com
+18/05/2023, 9:46 pm - Ashutosh Pradhan: Thank you sir.
+18/05/2023, 9:47 pm - Udit Sir: 👍🏼
+18/05/2023, 9:54 pm - Ashutosh Pradhan: Sir, I have sent you an invitation about power bi on outlook. Please, accept the invitation and let me know.
+18/05/2023, 9:56 pm - Udit Sir: Done
+18/05/2023, 10:18 pm - Ashutosh Pradhan: Sir, you would have received the Power Bi report on the outlook. Can you access it? Is the report accessible?
+18/05/2023, 10:31 pm - Udit Sir: Give me a minute
+18/05/2023, 11:18 pm - Udit Sir: Yrs
+18/05/2023, 11:18 pm - Udit Sir: Yes
+18/05/2023, 11:27 pm - Ashutosh Pradhan: Ok sir.
+24/05/2023, 11:33 am - Ashutosh Pradhan: https://publicauditdashboard.netlify.app/
+26/05/2023, 5:19 pm - Udit Sir: techclinic.mohua@gmail.com
+26/05/2023, 5:20 pm - Ashutosh Pradhan: You deleted this message
+26/05/2023, 5:20 pm - Ashutosh Pradhan: Ok sir.
+28/05/2023, 10:30 am - Ashutosh Pradhan: Good morning Sir. I have sent you a invitation for powerbi report on this "techclinic.mohua@gmail.com" email address. Please accept it and let me know.
+28/05/2023, 1:27 pm - Udit Sir: Hi, i will do it. Outside now
+28/05/2023, 2:16 pm - Ashutosh Pradhan: Ok sir. No problem.
+29/05/2023, 10:41 am - Ashutosh Pradhan: https://app.powerbi.com/groups/b90dc02d-08ef-4bf0-8409-c7a6e5ed97ad/list?experience=power-bi
+29/05/2023, 11:18 am - Udit Sir: aupperwal@niua.org
+31/05/2023, 11:35 pm - Ashutosh Pradhan: Sir, I won't be able to come tomorrow as I am down with cold and fever. I will come day after tomorrow. 
+
+Sir, you can try the steps for the dashboard on Visual Studio Code. I will provide you with report by tomorrow morning. Please let me know if any changes to be made.
+31/05/2023, 11:56 pm - Udit Sir: Ok
+02/06/2023, 11:51 am - Ashutosh Pradhan: https://products.aspose.app/cells/conversion/json-to-xlsx
+02/06/2023, 11:52 am - Ashutosh Pradhan: Convert json directly to excel
+02/06/2023, 5:11 pm - Ashutosh Pradhan: https://publicauditdashboard.netlify.app/
+02/06/2023, 5:16 pm - Ashutosh Pradhan: https://github.com/NotFarFromBlonded/betterroute
+02/06/2023, 5:16 pm - Ashutosh Pradhan: Sir, This is the Public Space Audit App code.
+02/06/2023, 6:52 pm - Udit Sir: Ok
+02/06/2023, 6:55 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:55 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:55 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:55 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:55 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:56 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:56 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:56 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:56 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:56 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:56 pm - Udit Sir: <Media omitted>
+02/06/2023, 6:57 pm - Ashutosh Pradhan: Thank you Sir.
+02/06/2023, 6:58 pm - Udit Sir: 😊
+02/06/2023, 9:57 pm - Ashutosh Pradhan: https://github.com/Ashutosh-UCSE20058/Public-Audit-Dashboard
+02/06/2023, 9:58 pm - Ashutosh Pradhan: Sir, this is GitHub code link.
+02/06/2023, 10:01 pm - Ashutosh Pradhan: https://app.powerbi.com/groups/b90dc02d-08ef-4bf0-8409-c7a6e5ed97ad/list?experience=power-bi
+02/06/2023, 10:01 pm - Ashutosh Pradhan: Power BI Analysis Dashboard link.
+06/06/2023, 4:33 pm - Udit Sir: Can you check if this is working?
+06/06/2023, 8:21 pm - Ashutosh Pradhan: Yes sir. It is working fine.
